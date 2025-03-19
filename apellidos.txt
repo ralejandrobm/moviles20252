@@ -1,5 +1,8 @@
 apellidos de integrantes del equipo
 Briseño
-Pallares
+Hernandez Pallares
 Calvillo
 martínez
+Rodriguez
+
+
